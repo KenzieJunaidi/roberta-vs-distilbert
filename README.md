@@ -1,8 +1,8 @@
-# roberta-vs-distilbert
+# RoBERTa vs DistilBERT – Comparative Study for Hate Speech Detection
 This repository contains the code from our research project titled:
 "Hate Speech Detection: A Comparison Between RoBERTa and DistilBERT."
 
-The project is a comparative study that focuses on comparing two transformer-based NLP models (RoBERTa & DistilBERT) in the task of classifying Reddit posts into three categories:
+This project focuses on comparing two transformer-based NLP models (RoBERTa & DistilBERT) in the task of classifying Reddit posts into three categories:
 - Hate
 - Neutral
 - Counter-hate
