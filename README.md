@@ -8,6 +8,7 @@ This project focuses on comparing two transformer-based NLP models (RoBERTa & Di
 - Counter-hate
 
 🔍 **Objective**
+
 To evaluate and compare the performance, efficiency, and effectiveness of RoBERTa and DistilBERT on a multi-class hate speech detection task using real-world Reddit data.
 
 📁 **Contents**
