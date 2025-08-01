@@ -1,4 +1,4 @@
-# RoBERTa vs DistilBERT – Comparative Study for Hate Speech Detection
+# RoBERTa vs DistilBERT: Comparative Study for Hate Speech Detection
 This repository contains the code from our research project titled:
 **"Hate Speech Detection: A Comparison Between RoBERTa and DistilBERT."**
 
